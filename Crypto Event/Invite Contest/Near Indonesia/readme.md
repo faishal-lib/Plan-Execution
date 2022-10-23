@@ -76,7 +76,7 @@ Terdapat sebuah keganjilan dengan username @Rex_Arm. Pada tanggal 21 October 202
 * Ada delay sinkronisasi fitur antara **Add Member** dengan **Statistik Grup**
 
 **Mari bahas satu persatu ..**
-* Kecurangan dari admin (penghitung) 
+* Kecurangan dari admin (penghitung) <br>
 Bisa saja admin sebagai penghitung melakukan kecurangan tetapi ada faktor yang dapat mematahkan pendapat tersebut : <br>
 Admin menyertakan screenshoot hasil dari Add Member
 
